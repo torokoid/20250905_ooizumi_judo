@@ -176,7 +176,7 @@ p.note { display: none; }
 <a href="20250905_003.JPG" target="_blank"><img src="20250905_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250905_004.JPG" target="_blank"><img src="20250905_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250905_005.JPG" target="_blank"><img src="20250905_005.JPG" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250905_006.JPG" target="_blank"><img src="20250905_006.JPG" alt="サンプル画像" class="responsive-media"></a>
+
 
 <br><br><br><br><br><br><br><br><br>
 
