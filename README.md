@@ -166,7 +166,7 @@ p.note { display: none; }
  
 <h2><span class="yellow">8月5日、LINEでのこんな会話から飲み会の話がスタート</span></h2>
 <a href="20250905_001.png" target="_blank"><img src="20250905_001.png" alt="サンプル画像" class="responsive-media"></a>
-<a href="20250905_002.png" target="_blank"><img src="20250905_002.png" alt="サンプル画像" class="responsive-media"></a>
+<a href="https://www.youtube.com/watch?v=Z4PKDOhRzfI" target="_blank"><img src="20250905_002.png" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250905_003.png" target="_blank"><img src="20250905_003.png" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br>
