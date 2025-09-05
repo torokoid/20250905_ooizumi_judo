@@ -168,8 +168,9 @@ p.note { display: none; }
 <a href="20250905_001.png" target="_blank"><img src="20250905_001.png" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250905_002.png" target="_blank"><img src="20250905_002.png" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250905_003.png" target="_blank"><img src="20250905_003.png" alt="サンプル画像" class="responsive-media"></a>
-    
 
+<br><br>
+<h2><span class="yellow">9月5日、当日の写真</span></h2>
 <a href="20250905_001.JPG" target="_blank"><img src="20250905_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250905_002.JPG" target="_blank"><img src="20250905_002.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250905_003.JPG" target="_blank"><img src="20250905_003.JPG" alt="サンプル画像" class="responsive-media"></a>
